@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=640&height=60&lines=hwannee%40portfolio%3A+~+%E2%80%94+zsh;%24+whoami;Backend+Developer+%C2%B7+%EB%B0%95%EC%9E%AC%ED%99%98" alt="terminal typing" />
-
 <img src="https://img.shields.io/badge/%E2%97%8F-ff5f57?style=flat-square&label=&labelColor=ff5f57" height="12" />
 <img src="https://img.shields.io/badge/%E2%97%8F-febc2e?style=flat-square&label=&labelColor=febc2e" height="12" />
 <img src="https://img.shields.io/badge/%E2%97%8F-28c840?style=flat-square&label=&labelColor=28c840" height="12" />
+
+<img src="hwannee.svg" width="620" alt="HWANNEE" />
+
+<sub><code>hwannee@portfolio: ~ — zsh</code></sub>
 
 <br/><br/>
 
