@@ -25,7 +25,7 @@ $ cat profile.json
 {
   "name":   "박재환",
   "role":   "Backend Engineer",
-  "stack":  ["Java", "Spring Boot", "MySQL", "Redis"],
+  "stack":  ["Java", "Spring Boot", "MySQL", "Redis", "Docker"],
   "status": "open to work"
 }
 ```
@@ -40,38 +40,48 @@ $ cat profile.json
 
 ## `$ skills --top`
 
-**CORE**
+**Back-End**
 
 <p>
 <img src="https://img.shields.io/badge/Java-3fb950?style=flat-square&logo=openjdk&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/Kotlin-3fb950?style=flat-square&logo=kotlin&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-3fb950?style=flat-square&logo=typescript&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Spring_Boot-3fb950?style=flat-square&logo=springboot&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/FastAPI-3fb950?style=flat-square&logo=fastapi&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/JPA-3fb950?style=flat-square&logo=hibernate&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Node.js-3fb950?style=flat-square&logo=nodedotjs&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/MyBatis-3fb950?style=flat-square&logoColor=0d1117" />
 </p>
 
+**Language**
+
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-58a6ff?style=flat-square&logo=springboot&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/JPA-58a6ff?style=flat-square&logo=hibernate&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/Next.js-58a6ff?style=flat-square&logo=nextdotjs&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-58a6ff?style=flat-square&logo=python&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-58a6ff?style=flat-square&logo=javascript&logoColor=0d1117" />
 </p>
+
+**Database**
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-56d4dd?style=flat-square&logo=mysql&logoColor=0d1117" />
 <img src="https://img.shields.io/badge/Redis-56d4dd?style=flat-square&logo=redis&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/MongoDB-56d4dd?style=flat-square&logo=mongodb&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-56d4dd?style=flat-square&logo=postgresql&logoColor=0d1117" />
 </p>
+
+**DevOps**
 
 <p>
-<img src="https://img.shields.io/badge/AWS-bc8cff?style=flat-square&logo=amazonwebservices&logoColor=0d1117" />
 <img src="https://img.shields.io/badge/Docker-bc8cff?style=flat-square&logo=docker&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub_Actions-bc8cff?style=flat-square&logo=githubactions&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Jenkins-bc8cff?style=flat-square&logo=jenkins&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Nginx-bc8cff?style=flat-square&logo=nginx&logoColor=0d1117" />
 </p>
 
-**NOW LEARNING**
+**Front-End**
 
-```
-› Kubernetes
-› gRPC
-› Event-driven architecture
-```
+<p>
+<img src="https://img.shields.io/badge/Vue.js-ffa657?style=flat-square&logo=vuedotjs&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/React-ffa657?style=flat-square&logo=react&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/HTML_/_CSS-ffa657?style=flat-square&logo=html5&logoColor=0d1117" />
+</p>
 
 ---
 
