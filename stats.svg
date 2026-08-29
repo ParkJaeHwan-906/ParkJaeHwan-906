@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="210" viewBox="0 0 680 210" role="img" aria-label="GitHub stats">
+  <title>git log --stat</title>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+    <rect x="0.5" y="0.5" width="679" height="209" rx="10" fill="#0d1117" stroke="#21262d"/>
+    <path d="M0.5 10.5a10 10 0 0 1 10-10h659 a10 10 0 0 1 10 10v23 h-679 z" fill="#161b22" stroke="#21262d"/>
+    <text x="20" y="22.4" fill="#6e7681" font-size="11.5">$ git log --stat</text>
+    <text x="24" y="62" fill="#6e7681" font-size="12.5">Public repos</text>
+    <text x="188" y="62" fill="#c9d1d9" font-size="15" font-weight="700" text-anchor="end">16</text>
+    <text x="24" y="92" fill="#6e7681" font-size="12.5">Stars</text>
+    <text x="188" y="92" fill="#c9d1d9" font-size="15" font-weight="700" text-anchor="end">4</text>
+    <text x="24" y="122" fill="#6e7681" font-size="12.5">Followers</text>
+    <text x="188" y="122" fill="#c9d1d9" font-size="15" font-weight="700" text-anchor="end">10</text>
+    <text x="24" y="152" fill="#6e7681" font-size="12.5">Projects</text>
+    <text x="188" y="152" fill="#c9d1d9" font-size="15" font-weight="700" text-anchor="end">4</text>
+    <text x="236" y="56" fill="#6e7681" font-size="12.5">Languages</text>
+    <clipPath id="bar"><rect x="236" y="66" width="420" height="10" rx="5"/></clipPath>
+    <g clip-path="url(#bar)"><rect x="236.00" y="66" width="255.62" height="10" fill="#3fb950"/><rect x="491.02" y="66" width="81.98" height="10" fill="#58a6ff"/><rect x="572.40" y="66" width="53.17" height="10" fill="#56d4dd"/><rect x="624.98" y="66" width="19.27" height="10" fill="#d29922"/><rect x="643.65" y="66" width="12.95" height="10" fill="#bc8cff"/></g>
+    <circle cx="241" cy="96" r="4.5" fill="#3fb950"/>
+    <text x="254" y="100" fill="#c9d1d9" font-size="12.5">Java</text>
+    <text x="656" y="100" fill="#6e7681" font-size="12.5" text-anchor="end">60.7%</text>
+    <circle cx="241" cy="117" r="4.5" fill="#58a6ff"/>
+    <text x="254" y="121" fill="#c9d1d9" font-size="12.5">Python</text>
+    <text x="656" y="121" fill="#6e7681" font-size="12.5" text-anchor="end">19.4%</text>
+    <circle cx="241" cy="138" r="4.5" fill="#56d4dd"/>
+    <text x="254" y="142" fill="#c9d1d9" font-size="12.5">TypeScript</text>
+    <text x="656" y="142" fill="#6e7681" font-size="12.5" text-anchor="end">12.5%</text>
+    <circle cx="241" cy="159" r="4.5" fill="#d29922"/>
+    <text x="254" y="163" fill="#c9d1d9" font-size="12.5">JavaScript</text>
+    <text x="656" y="163" fill="#6e7681" font-size="12.5" text-anchor="end">4.4%</text>
+    <circle cx="241" cy="180" r="4.5" fill="#bc8cff"/>
+    <text x="254" y="184" fill="#c9d1d9" font-size="12.5">HCL / Terraform</text>
+    <text x="656" y="184" fill="#6e7681" font-size="12.5" text-anchor="end">2.9%</text>
+  </g>
+</svg>

@@ -113,10 +113,11 @@ total 4
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ParkJaeHwan-906&show_icons=true&bg_color=0d1117&title_color=3fb950&icon_color=56d4dd&text_color=c9d1d9&border_color=21262d&border_radius=12" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJaeHwan-906&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=21262d&border_radius=12" />
+<img src="stats.svg" width="680" alt="GitHub stats" />
 
 </div>
+
+<sub>공개 저장소 기준. 비율은 마크업(HTML/CSS)과 노트북을 제외한 코드 바이트 기준입니다.</sub>
 
 ---
 
