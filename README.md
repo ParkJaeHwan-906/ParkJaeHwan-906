@@ -125,11 +125,9 @@ total 4
 
 <div align="center">
 
-<img src="contributions.svg" width="756" alt="GitHub contributions" />
+<img src="contributions.svg" width="756" alt="GitHub contributions" title="최근 1년간 3,260 contributions" />
 
 </div>
-
-<sub>매일 새벽 5시 GitHub Actions 가 다시 그립니다.</sub>
 
 ---
 
