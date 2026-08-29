@@ -75,6 +75,17 @@ $ cat profile.json
 <img src="https://img.shields.io/badge/Nginx-bc8cff?style=flat-square&logo=nginx&logoColor=0d1117" />
 </p>
 
+**Infra · Cloud**
+
+<p>
+<img src="https://img.shields.io/badge/AWS-d29922?style=flat-square&logo=amazonwebservices&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Terraform-d29922?style=flat-square&logo=terraform&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Kubernetes_(EKS)-d29922?style=flat-square&logo=kubernetes&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub_Actions-d29922?style=flat-square&logo=githubactions&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Lambda-d29922?style=flat-square&logo=awslambda&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Amazon_Bedrock-d29922?style=flat-square&logo=amazonwebservices&logoColor=0d1117" />
+</p>
+
 **Front-End**
 
 <p>
@@ -88,7 +99,7 @@ $ cat profile.json
 ## `$ ls -la ./projects`
 
 ```console
-total 5
+total 4
 ```
 
 | PERM | NAME | 설명 |
@@ -97,7 +108,6 @@ total 5
 | `drwxr-xr-x` | **[YGSS](https://github.com/ParkJaeHwan-906/YGSS)** | 사회초년생의 현명한 퇴직연금 관리를 위한 추천 서비스 |
 | `drwxr-xr-x` | **[onAiR](https://github.com/ParkJaeHwan-906/onAiR)** | 산업 현장을 최적화하는 AI·AR 스마트 헬멧 |
 | `drwxr-xr-x` | **[POOKIE](https://github.com/ParkJaeHwan-906/POOKIE)** | mini web game platform |
-| `drwxr-xr-x` | **[MusoonZupZup](https://github.com/ParkJaeHwan-906/MusoonZupZupBE)** | 무순위 청약 플랫폼 — 무순줍줍 |
 
 ---
 
@@ -119,8 +129,8 @@ $ contact --all
 ```
 
 <p>
-<a href="mailto:swm.jeahwan@gmail.com">
-  <img src="https://img.shields.io/badge/swm.jeahwan@gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=0d1117" />
+<a href="mailto:doormoo2@naver.com">
+  <img src="https://img.shields.io/badge/doormoo2@naver.com-58a6ff?style=flat-square&logo=gmail&logoColor=0d1117" />
 </a>
 <a href="https://parkjaehwan-906.github.io">
   <img src="https://img.shields.io/badge/Portfolio-3fb950?style=flat-square&logo=githubpages&logoColor=0d1117" />
