@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hwannee.svg" width="620" alt="HWANNEE" />
+<img src="hwannee.svg" width="560" alt="HWANNEE" />
 
 <img src="terminal.svg" width="680" alt="hwannee@portfolio terminal" />
 
