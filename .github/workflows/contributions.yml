@@ -1,0 +1,40 @@
+name: contributions graph
+
+# 잔디 SVG 를 매일 다시 그린다.
+# 외부 카드 서비스(vercel 등)는 자주 깨져서 직접 생성해 커밋한다.
+on:
+  schedule:
+    - cron: "17 20 * * *"    # 매일 05:17 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  redraw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate contributions.svg
+        env:
+          # GITHUB_TOKEN 으로 안 되면 GH_PAT 시크릿(read:user)을 추가하면 된다
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          CONTRIB_LOGIN: ParkJaeHwan-906
+        run: python scripts/gen_contrib.py
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain contributions.svg)" ]; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contributions.svg
+          git commit -m "chore: refresh contributions graph"
+          git push

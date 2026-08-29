@@ -121,6 +121,18 @@ total 4
 
 ---
 
+## `$ contributions --year`
+
+<div align="center">
+
+<img src="contributions.svg" width="756" alt="GitHub contributions" />
+
+</div>
+
+<sub>매일 새벽 5시 GitHub Actions 가 다시 그립니다.</sub>
+
+---
+
 ## `$ contact --all`
 
 ```console
