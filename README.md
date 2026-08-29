@@ -6,6 +6,12 @@
 <img src="https://img.shields.io/badge/%E2%97%8F-febc2e?style=flat-square&label=&labelColor=febc2e" height="12" />
 <img src="https://img.shields.io/badge/%E2%97%8F-28c840?style=flat-square&label=&labelColor=28c840" height="12" />
 
+<br/><br/>
+
+<a href="https://parkjaehwan-906.github.io/shell-page/">
+  <img src="https://img.shields.io/badge/%E2%96%B6_%EC%8B%A4%EC%A0%9C_%ED%84%B0%EB%AF%B8%EB%84%90_%EC%97%B4%EA%B8%B0-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950&labelColor=161b22" />
+</a>
+
 </div>
 
 ---
