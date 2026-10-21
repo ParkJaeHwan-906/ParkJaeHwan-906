@@ -9,6 +9,9 @@
 <a href="https://parkjaehwan-906.github.io/shell-page/">
   <img src="https://img.shields.io/badge/%E2%96%B6_%EC%8B%A4%EC%A0%9C_%ED%84%B0%EB%AF%B8%EB%84%90_%EC%97%B4%EA%B8%B0-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950&labelColor=161b22" />
 </a>
+<a href="https://parkjaehwan-906.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/%E2%96%B6_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B3%B4%EA%B8%B0-0d1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff&labelColor=161b22" />
+</a>
 
 </div>
 
@@ -141,7 +144,7 @@ $ contact --all
 <a href="mailto:doormoo2@naver.com">
   <img src="https://img.shields.io/badge/doormoo2@naver.com-58a6ff?style=flat-square&logo=gmail&logoColor=0d1117" />
 </a>
-<a href="https://parkjaehwan-906.github.io">
+<a href="https://parkjaehwan-906.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-3fb950?style=flat-square&logo=githubpages&logoColor=0d1117" />
 </a>
 <a href="https://github.com/ParkJaeHwan-906">
